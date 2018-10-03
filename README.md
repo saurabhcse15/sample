@@ -1,4 +1,3 @@
 # hello-world
 
-first repository
-
+fi rst repository
