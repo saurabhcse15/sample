@@ -1,4 +1,5 @@
 # hello-world
 
 first repository
-print("hello world")
+print(":hello world")
+print ("nice")
