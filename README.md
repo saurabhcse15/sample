@@ -1,5 +1,4 @@
 # hello-world
 
-first repository
-hello ji
+first reposi
 
