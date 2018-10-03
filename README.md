@@ -1,4 +1,3 @@
 # hello-world
 
-first repository
-fddhd
+first reposit
